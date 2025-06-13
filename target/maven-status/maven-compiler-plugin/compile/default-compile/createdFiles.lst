@@ -1,0 +1,4 @@
+com\mydreams\pageobjects\HomePage.class
+com\mydreams\pageobjects\BasePage.class
+com\mydreams\pageobjects\DiaryPage.class
+com\mydreams\pageobjects\TotalPage.class

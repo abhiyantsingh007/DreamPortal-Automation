@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Dream Portal Suite">
+  <listeners>
+    <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+  </listeners>
+  <test name="Functional Tests">
+    <packages>
+      <package name="com.mydreams.tests"/>
+    </packages>
+  </test>
+</suite>
